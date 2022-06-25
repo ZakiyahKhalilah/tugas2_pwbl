@@ -1,0 +1,11 @@
+{
+    "name": "asus/php-mvc",
+    "description": "Untuk Inisialisasi dan Mengatur depedency sistem",
+    "authors": [
+        {
+            "name": "Zakiyah Khalillah Daulay",
+            "email": "zakiyah@gmail.com"
+        }
+    ],
+    "require": {}
+}
